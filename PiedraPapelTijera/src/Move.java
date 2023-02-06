@@ -4,9 +4,9 @@
  
 public class Move{
 
-    private String move;
+    private String move; //atributo mover
 
-    public Move(){
+    public Move(){ //constructor vacío mover
     	this.move = null;
     }
 
